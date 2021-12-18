@@ -1,8 +1,10 @@
-- 👋 Hi, I’m @yuhaocooper (Yuhao). I'm currently a eCommerce Project Manager at CrescoData.
-- 👀 I’m interested in building products that help to solve 
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 You may reach me at Linkedin
+# 👋 Hi, I’m Yuhao! 
+- :briefcase: I'm currently a eCommerce Project Manager at CrescoData.
+- :computer: I’m interested in building products. I'm currently working on creating a Shopify app to help to solve issues faced by eCommerce merchants.
+- :mailbox_with_mail: You may reach me at [Linkedin](https://www.linkedin.com/in/yuhaocooper/) for any opportunities
+
+Cheers!
+
 
 <!---
 yuhaocooper/yuhaocooper is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
